@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="264.58322mm"
+   height="264.58334mm"
+   viewBox="0 0 264.58322 264.58334"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="BenHerbst.svg"
+   inkscape:export-filename="/home/benherbst/Bilder/BenHerbst.png"
+   inkscape:export-xdpi="95.999992"
+   inkscape:export-ydpi="95.999992"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.20021921"
+     inkscape:cx="114.87409"
+     inkscape:cy="579.365"
+     inkscape:window-width="1880"
+     inkscape:window-height="1003"
+     inkscape:window-x="20"
+     inkscape:window-y="746"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1.5258789e-5)">
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.49255;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect107410"
+       width="264.58322"
+       height="264.58334"
+       x="-1.5258789e-05"
+       y="0" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#fcffff;stroke-width:4.47848;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect33644"
+       width="154.27151"
+       height="154.27151"
+       x="54.576828"
+       y="55.374275" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.7227px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.91806"
+       x="57.280758"
+       y="143.19975"
+       id="text63163"
+       transform="scale(0.99950014,1.0005001)"><tspan
+         sodipodi:role="line"
+         id="tspan63161"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;stroke-width:1.91806"
+         x="57.280758"
+         y="143.19975">BEN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.3288px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.95822"
+       x="60.5825"
+       y="176.83562"
+       id="text63163-7"
+       transform="scale(0.99950204,1.0004982)"><tspan
+         sodipodi:role="line"
+         id="tspan63161-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;stroke-width:0.95822"
+         x="60.5825"
+         y="176.83562">HERBST</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#fcffff;stroke-width:5.00098;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect33644-3"
+       width="172.26985"
+       height="172.26985"
+       x="45.57766"
+       y="46.375107" />
+  </g>
+</svg>
